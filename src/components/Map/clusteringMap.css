@@ -1,0 +1,16 @@
+
+/* InfoWindow{
+    background-color: #26272b;
+} */
+.container{
+    margin-top: 10px;
+    width: auto !important;
+}
+
+.infoWindow{
+    background-color: #26272b !important;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.6);
+}
+.google_map_InfoWindow{
+    background-color: #26272b !important;
+}

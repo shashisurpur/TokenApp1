@@ -1,0 +1,37 @@
+/* .clientDetailContainer {} */
+.custHeader{
+    text-align: center;
+}
+.custHeader h2{
+    margin-top: 2%;
+    text-align: center;
+   
+}
+.mainTab{
+    margin: 4%;
+}
+.tabHeader{
+    padding: 10px;
+    cursor: pointer;
+    position: relative;
+    /* border-color: black; */
+     background-color:#212529;/*  */
+   font-size: large;
+   text-align: center;
+   color: #ffffff;
+   text-transform: uppercase;
+}
+.content{
+    color: rgb(88, 235, 210);
+}
+.rowCol{
+    color: rgb(248, 88, 221);
+}
+
+/* .clientDetailContainer .mainTab .tabItem .tabButton{
+   color: #ffffff;
+   border-color: black;
+   font-size: large;
+   
+} */
+

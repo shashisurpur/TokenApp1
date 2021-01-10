@@ -1,0 +1,34 @@
+
+.markerCard{
+    color: #ffffff;
+   height: 500px !important;
+}
+/* .markerCard .card-lg{
+    height: 500px !important;
+    
+ }*/
+.markerCardHeader{
+    font-size: 28px;
+    font-style: bold;
+    font-weight: bold;
+    
+}
+.markerCardBody{
+    margin: 1%;
+}
+.markerCardBody .title{
+    margin: 18px;
+    padding: 18px;
+}
+.markerCardBody .text{
+    margin: 18px;
+    padding: 18px;
+}
+.markerCard .customeRow{
+    /* margin: 18px ;
+    padding: 18px ; */
+    margin-top: 6%;
+}
+.markerCard .card-footer{
+    margin-top: 2%;
+}

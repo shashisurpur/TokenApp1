@@ -1,0 +1,29 @@
+
+.cardContainer{
+    margin-top: 10%;
+   
+}
+.cardTitle{
+    margin-bottom: 8%;
+}
+/* .cardText{
+    margin-top: 18px;
+} */
+.customeCard{
+   /*  background-color: rgb(248, 244, 244);
+    border: 2px solid rgba(10, 8, 8, 0.692);
+    border-radius: .52rem;
+    color: black; */
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: relative;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+.cardTitle{
+    text-transform: uppercase;
+    font-weight: bold;
+}
